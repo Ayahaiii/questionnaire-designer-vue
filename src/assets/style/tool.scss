@@ -1,0 +1,38 @@
+/* tool */
+.pl30{
+    padding-left: 30px !important;
+}
+.pl10{
+    padding-left: 10px !important;
+}
+.mt15{
+    margin-top: 15px !important;
+}
+.mb15{
+    margin-bottom: 15px !important;
+}
+.mr0{
+    margin-right: 0px !important;
+}
+.text-center{
+    text-align: center !important;
+}
+.text-bold{
+    font-weight: bold !important;
+}
+.label{
+    color: #555 !important;
+    font-weight: bold !important;
+    line-height: 32px !important;
+}
+.text-left{
+    text-align: left !important;
+}
+.text-right{
+    text-align: right !important;
+}
+.clearfix:before,.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+}

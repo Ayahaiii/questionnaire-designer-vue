@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'iconfont';
+  /* project id 1128765 */
+  src: url('//at.alicdn.com/t/font_1128765_jn0jag4wwtq.eot');
+  src: url('//at.alicdn.com/t/font_1128765_jn0jag4wwtq.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1128765_jn0jag4wwtq.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1128765_jn0jag4wwtq.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1128765_jn0jag4wwtq.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1128765_jn0jag4wwtq.svg#iconfont') format('svg');
+}
+
+[class*='monetware-icon'] {
+  font-family:"iconfont" !important;
+  font-size:inherit;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.monetware-icon-signature:before { content: '\e6ca'; }
+
+.monetware-icon-photo:before { content: "\e620"; }
+
+.monetware-icon-dropdown:before { content: "\e606"; }
+
+.monetware-icon-quhua:before { content: "\e622"; }
+
+.monetware-icon-datetime:before { content: "\e6b0"; }
+
+.monetware-icon-sort:before { content: "\e608"; }
+
+.monetware-icon-label:before { content: "\e65a"; }
+
+.monetware-icon-multiselect:before { content: "\e61c"; }
+
+.monetware-icon-section:before { content: "\e6e3"; }
+
+.monetware-icon-matrix:before { content: "\e63e"; }
+
+.monetware-icon-minus-square-o:before { content: "\e63b"; }
+
+.monetware-icon-assignment:before { content: "\e607"; }
+
+.monetware-icon-singleselect:before { content: "\e66e"; }
+
+.monetware-icon-page:before { content: "\e617"; }
+
+.monetware-icon-location:before { content: "\e60c"; }
+
+.monetware-icon-text:before { content: "\e603"; }
+
+.monetware-icon-textarea:before { content: "\e643"; }
+
+.monetware-icon-matrix-single:before { content: "\e6fc"; }
+
+.monetware-icon-matrix-multi:before { content: "\e6ff"; }
+
+.monetware-icon-R:before { content: "\e605"; }
+
+.monetware-icon-import-lang:before { content: "\ea0a"; }
+
+.monetware-icon-export-lang:before { content: "\ea0b"; }
+
+.monetware-icon-style:before { content: "\e73f"; }
+
+.monetware-icon-screenfull:before { content: "\e613"; }
+
+.monetware-icon-exit-screenfull:before { content: "\e616"; }
